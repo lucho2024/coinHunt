@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266545804596",
+    "firebase_url": "https://coinhunt-7830c.firebaseio.com",
+    "project_id": "coinhunt-7830c",
+    "storage_bucket": "coinhunt-7830c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266545804596:android:6cd69198ef52aca9f7e161",
+        "android_client_info": {
+          "package_name": "com.example.coinhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266545804596-pipclf6fi9o8v2eeuahb8v0s21jkllmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu_npgngae9S3x-PQHWAwjWbmNworssKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266545804596-pipclf6fi9o8v2eeuahb8v0s21jkllmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
